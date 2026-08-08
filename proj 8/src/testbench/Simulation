@@ -1,0 +1,1 @@
+iverilog -o full_subtractor_sim src/full_subtractor.v testbench/full_subtractor_tb.v
